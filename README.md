@@ -1,68 +1,80 @@
-<!-- THE MIDNIGHT LAB | GitHub profile of Ibaa Belhadj -->
+<div align="center">
 
-<p align="center">
-  <img src="L1lith04_MidnightLab_Profile/assets/midnight-lab-banner.svg" width="100%" alt="The Midnight Lab: Hi, I'm Ibaa. Building systems, questioning assumptions, exploring AI." />
-</p>
+# hi, I'm Ibaa 👋
 
-<p align="center">
-  <strong>Software Engineering &#215; Business Analytics</strong><br />
-  AI / NLP / RAG / Applied Research<br />
-  Montr&#233;al, Canada
-</p>
+### Somewhere between engineering, strategy & storytelling.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ibaa-belhadj-6435b6266/">LinkedIn</a>
-  &#160; &#183; &#160;
-  <a href="https://github.com/L1lith04">GitHub</a>
-</p>
+**Software Engineering @ SMU MedTech** · **Business Analytics @ HEC Montréal**  
+📍 Montréal, Canada
+
+[LinkedIn](https://www.linkedin.com/in/ibaa-belhadj-6435b6266/) · [GitHub](https://github.com/L1lith04)
+
+</div>
 
 ---
 
-<img align="right" width="210" src="L1lith04_MidnightLab_Profile/assets/profile-photo.jpg" alt="Creative portrait with floating code, research and space-themed stickers" />
+### ✦ 01 / a little about me
 
-### ✦ 01 / behind the screen
+I like building things, but I also love **bringing people together around an idea**.
 
-Hi! I'm **Ibaa**, a double-degree student combining **Software Engineering at SMU MedTech** with **Business Analytics at HEC Montr&#233;al**.
+I'm pursuing a double degree in software engineering and business analytics. My interests sit at the intersection of **AI, technical problem-solving, strategy, and communication**. One day I'm working through a machine-learning experiment; another, I'm presenting a plan, organizing an engineering initiative, or talking about technology on the radio.
 
-I love the part of engineering where an interesting idea becomes something we can **build, test, question, and explain**. My interests sit at the intersection of machine learning, software systems, and practical problem-solving.
+I care about making technology **useful, understandable, and worth trusting**, not just getting a demo to run.
 
-What keeps me curious:
+### ✦ 02 / what I'm building & exploring
 
-- Can an AI system **show the evidence** behind its answer?
-- How can we understand **when a model fails**, not just when it succeeds?
-- How do we turn research ideas into tools that are actually useful?
+| Project or experience | What I worked on | Where it stands |
+| --- | --- | --- |
+| **MedRAG** | Local medical-document assistant using LLMs, LangChain, ChromaDB, Ollama, and Streamlit; improving document-grounded questions and sources | 🛠️ In development · private repository |
+| **Emotion classification & NLP evaluation** | BERT-based emotion classification and evaluation during an AI research internship | 🔬 Past internship work; not published here |
+| **Hodgkin–Huxley neuron simulation** | Python simulation of neuron action potentials, numerical methods, and visualization | 📓 Previous project; documentation planned |
+| **Takoyaki** | Full-stack, AI-assisted recipe application built with Vue, Node.js, and MongoDB | 📓 Previous project; documentation planned |
 
-*My working motto: build it, question it, improve it.*
+*I'm preparing public code and reproducible demonstrations as projects are ready. A private repository is not the same as a published portfolio project.*
 
-<br clear="right" />
+### ✦ 03 / beyond the IDE
 
-### ✦ 02 / notes from the lab
+Some of my favorite engineering moments have happened **in front of a room, around an organizing table, or behind a microphone**.
 
-| Project | What it explores | Where it's at |
-| :--- | :--- | :--- |
-| **MedRAG 🧪** | Local LLMs, RAG, medical-document analysis, and grounded follow-up questions | Actively improving; private repository |
-| **Emotion in Text 🧠** | BERT-based emotion classification and NLP evaluation | Earlier research internship; no public code yet |
-| **Neurons in Python 🌊** | Hodgkin-Huxley model, numerical simulation, and scientific visualization | Existing academic project; documentation planned |
-| **Takoyaki ✨** | A full-stack AI-assisted recipe application | Previous project; documentation planned |
+I helped found and lead **IEEE EMBS at SMU**, worked with the **IEEE WIE SMU** student community, presented initiatives, and led discussions about technology and healthcare innovation. Those experiences shaped how I work with people as much as how I work with code.
 
-> This is a living lab notebook. Some projects are still private or being documented; I'll add public repositories and reproducible results as they're ready.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/panel-medguard360.jpg" alt="Leading a panel discussion at the MedGuard 360 event" width="100%" />
+      <br /><sub><b>On stage</b> · Leading a MedGuard 360 panel discussion</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/radio-interview.jpg" alt="Speaking during a radio interview at Express FM" width="100%" />
+      <br /><sub><b>On air</b> · Talking about our engineering initiatives</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/ieee-wie-elections.jpg" alt="Students together at the IEEE WIE SMU elections" width="100%" />
+      <br /><sub><b>With a team</b> · IEEE WIE SMU elections</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/hec-montreal.jpg" alt="Standing beside the HEC Montréal campus sign" width="100%" />
+      <br /><sub><b>A new chapter</b> · Studying at HEC Montréal</sub>
+    </td>
+  </tr>
+</table>
 
-### ✦ 03 / what I build with
+### ✦ 04 / my toolkit
 
-**Languages:** `Python` `JavaScript`  
-**AI & ML:** `BERT` `Hugging Face` `LangChain` `Ollama` `ChromaDB` `RAG`  
-**Apps & Engineering:** `Streamlit` `Vue.js` `Node.js` `MongoDB` `Git`
+**Programming & apps:** Python · JavaScript · Vue.js · Node.js · MongoDB · Streamlit  
+**AI & NLP:** BERT · Hugging Face · LangChain · RAG · Ollama · ChromaDB  
+**Also important to me:** technical writing · presentations · research questions · teamwork
 
-### ✦ 04 / outside the terminal
+### ✦ 05 / what's next?
 
-I enjoy turning complex ideas into **clear presentations, useful visualizations, and good conversations**. Through **IEEE EMBS at SMU**, I've also worked on building a student engineering community and bringing people together around interdisciplinary ideas.
+I'm looking for a **technically meaningful AI/ML research internship or software engineering PFE/capstone collaboration**—especially opportunities involving NLP, reliable AI systems, evaluation, or healthcare-related software.
 
-### ✦ 05 / currently looking for
+I want to contribute to serious technical work while continuing to grow as an engineer.
 
-**Research-oriented AI/ML internships and software-engineering PFE / capstone collaborations**, especially projects where I can help build and evaluate technically meaningful systems.
-
-If you're working on NLP, reliable AI, healthcare-related software, or applied ML research, I'd love to connect on **[LinkedIn](https://www.linkedin.com/in/ibaa-belhadj-6435b6266/)**.
+**Have an interesting research question or project?** [Let's connect on LinkedIn ↗](https://www.linkedin.com/in/ibaa-belhadj-6435b6266/)
 
 ---
 
-<p align="center"><sub>✦ currently building, testing, and learning ✦</sub></p>
+<div align="center"><sub>Build thoughtfully. Communicate clearly. Keep learning. ✦</sub></div>
