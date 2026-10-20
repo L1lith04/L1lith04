@@ -1,80 +1,59 @@
-<div align="center">
+<p align="center">
+  <img src="assets/futuristic_tech_network_personal_brand_banner.png" width="100%" alt="Ibaa Belhadj — Somewhere between engineering, strategy and storytelling" />
+</p>
 
-# hi, I'm Ibaa 👋
-
-### Somewhere between engineering, strategy & storytelling.
-
-**Software Engineering @ SMU MedTech** · **Business Analytics @ HEC Montréal**  
-📍 Montréal, Canada
-
-[LinkedIn](https://www.linkedin.com/in/ibaa-belhadj-6435b6266/) · [GitHub](https://github.com/L1lith04)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ibaa-belhadj-6435b6266/">LinkedIn</a> ·
+  <a href="https://github.com/L1lith04">GitHub</a>
+</p>
 
 ---
 
 ### ✦ 01 / a little about me
 
-I like building things, but I also love **bringing people together around an idea**.
+I'm Ibaa, a double-degree student in **Software Engineering at SMU MedTech** and **Business Analytics at HEC Montréal**.
 
-I'm pursuing a double degree in software engineering and business analytics. My interests sit at the intersection of **AI, technical problem-solving, strategy, and communication**. One day I'm working through a machine-learning experiment; another, I'm presenting a plan, organizing an engineering initiative, or talking about technology on the radio.
+I love the technical side of building things, but I also love **bringing people together around an idea**. Whether I'm experimenting with machine learning, working on a software project, organizing an IEEE initiative, or speaking to an audience, I enjoy turning complex ideas into something people can understand and use.
 
-I care about making technology **useful, understandable, and worth trusting**, not just getting a demo to run.
+What keeps me curious is not only *whether a system works*, but also **why it works, where it fails, and what it could do better**.
 
-### ✦ 02 / what I'm building & exploring
+### ✦ 02 / things I've built & explored
 
-| Project or experience | What I worked on | Where it stands |
-| --- | --- | --- |
-| **MedRAG** | Local medical-document assistant using LLMs, LangChain, ChromaDB, Ollama, and Streamlit; improving document-grounded questions and sources | 🛠️ In development · private repository |
-| **Emotion classification & NLP evaluation** | BERT-based emotion classification and evaluation during an AI research internship | 🔬 Past internship work; not published here |
-| **Hodgkin–Huxley neuron simulation** | Python simulation of neuron action potentials, numerical methods, and visualization | 📓 Previous project; documentation planned |
-| **Takoyaki** | Full-stack, AI-assisted recipe application built with Vue, Node.js, and MongoDB | 📓 Previous project; documentation planned |
+| Project | What I worked on | Status |
+| :--- | :--- | :--- |
+| **MedRAG · Medical AI assistant** | Local medical-document analysis with LLMs, Ollama, LangChain, ChromaDB, and Streamlit. Currently improving document-grounded Q&A and evidence traceability. | 🛠️ In development · private repository |
+| **Emotion classification** | BERT-based emotion detection, fine-tuning, and NLP evaluation during an AI research internship. | 🔬 Internship project · not publicly released |
+| **Hodgkin–Huxley simulation** | Modeling neuron action potentials in Python using numerical methods and scientific visualization. | 📓 Previous project · documentation planned |
+| **Takoyaki** | An AI-assisted recipe application with a full-stack web architecture using Vue.js, Node.js, and MongoDB. | 📓 Previous project · documentation planned |
 
-*I'm preparing public code and reproducible demonstrations as projects are ready. A private repository is not the same as a published portfolio project.*
+*I prefer to share projects with clear explanations, reproducible examples, and honest limitations. More public repositories are coming as I prepare them.*
 
-### ✦ 03 / beyond the IDE
+### ✦ 03 / beyond the code
 
-Some of my favorite engineering moments have happened **in front of a room, around an organizing table, or behind a microphone**.
+A big part of my engineering journey has been about **people, leadership, and communication**.
 
-I helped found and lead **IEEE EMBS at SMU**, worked with the **IEEE WIE SMU** student community, presented initiatives, and led discussions about technology and healthcare innovation. Those experiences shaped how I work with people as much as how I work with code.
+I helped establish the **IEEE EMBS student chapter at SMU**, contributed to **IEEE WIE SMU**, led a panel at **MedGuard 360**, presented engineering initiatives, and had the opportunity to discuss our work on the radio. Moving to Montréal to continue my studies at HEC has been another meaningful chapter.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/panel-medguard360.jpg" alt="Leading a panel discussion at the MedGuard 360 event" width="100%" />
-      <br /><sub><b>On stage</b> · Leading a MedGuard 360 panel discussion</sub>
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/radio-interview.jpg" alt="Speaking during a radio interview at Express FM" width="100%" />
-      <br /><sub><b>On air</b> · Talking about our engineering initiatives</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/ieee-wie-elections.jpg" alt="Students together at the IEEE WIE SMU elections" width="100%" />
-      <br /><sub><b>With a team</b> · IEEE WIE SMU elections</sub>
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/hec-montreal.jpg" alt="Standing beside the HEC Montréal campus sign" width="100%" />
-      <br /><sub><b>A new chapter</b> · Studying at HEC Montréal</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/ibaa-editorial-photo-gallery.jpg" width="100%" alt="Four moments from my journey: leading a MedGuard 360 panel, speaking on radio, taking part in IEEE WIE SMU elections, and studying at HEC Montréal" />
+</p>
 
 ### ✦ 04 / my toolkit
 
-**Programming & apps:** Python · JavaScript · Vue.js · Node.js · MongoDB · Streamlit  
-**AI & NLP:** BERT · Hugging Face · LangChain · RAG · Ollama · ChromaDB  
-**Also important to me:** technical writing · presentations · research questions · teamwork
+**Programming & applications:** Python · JavaScript · Vue.js · Node.js · MongoDB · Streamlit
 
-### ✦ 05 / what's next?
+**Machine learning & NLP:** BERT · Hugging Face · LangChain · RAG · Ollama · ChromaDB
 
-I'm looking for a **technically meaningful AI/ML research internship or software engineering PFE/capstone collaboration**—especially opportunities involving NLP, reliable AI systems, evaluation, or healthcare-related software.
+**Beyond the stack:** Research-minded problem solving · Technical presentations · Community building · Teamwork
 
-I want to contribute to serious technical work while continuing to grow as an engineer.
+### ✦ 05 / what I'm looking for
 
-**Have an interesting research question or project?** [Let's connect on LinkedIn ↗](https://www.linkedin.com/in/ibaa-belhadj-6435b6266/)
+I'm interested in **research-oriented AI/ML internships and software engineering PFE/capstone opportunities**, particularly work involving NLP, reliable AI, evaluation, and healthcare-related software.
+
+I want to contribute to technically meaningful projects, learn from researchers and engineers, and keep improving the way I build and communicate ideas.
+
+**Have an interesting project or research question?** [Let's connect on LinkedIn ↗](https://www.linkedin.com/in/ibaa-belhadj-6435b6266/)
 
 ---
 
-<div align="center"><sub>Build thoughtfully. Communicate clearly. Keep learning. ✦</sub></div>
+*Building thoughtfully. Asking better questions. Bringing ideas to life. ✦*
