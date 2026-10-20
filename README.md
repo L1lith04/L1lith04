@@ -1,7 +1,7 @@
 <!-- THE MIDNIGHT LAB | GitHub profile of Ibaa Belhadj -->
 
 <p align="center">
-  <img src="assets/midnight-lab-banner.svg" width="100%" alt="The Midnight Lab: Hi, I'm Ibaa. Building systems, questioning assumptions, exploring AI." />
+  <img src="L1lith04_MidnightLab_Profile/assets/midnight-lab-banner.svg" width="100%" alt="The Midnight Lab: Hi, I'm Ibaa. Building systems, questioning assumptions, exploring AI." />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-<img align="right" width="210" src="assets/profile-photo.jpg" alt="Creative portrait with floating code, research and space-themed stickers" />
+<img align="right" width="210" src="L1lith04_MidnightLab_Profile/assets/profile-photo.jpg" alt="Creative portrait with floating code, research and space-themed stickers" />
 
 ### ✦ 01 / behind the screen
 
