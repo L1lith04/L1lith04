@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/futuristic_tech_network_personal_brand_banner.png" width="100%" alt="Ibaa Belhadj — Somewhere between engineering, strategy and storytelling" />
+  <img src="assets/Futuristic Tech Network Personal Brand Banner.png" width="100%" alt="Ibaa Belhadj — Somewhere between engineering, strategy and storytelling" />
 </p>
 
 <p align="center">
